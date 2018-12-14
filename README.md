@@ -25,6 +25,6 @@ Share some hackintosh Clover files.
 # 二维码赞助
 @imfht大佬在issue里面反馈了赞助链接的问题~ emmm 受宠若惊 有点小紧张呢 如果觉得本项目帮助到你的话，请随意打赏，我们一起让这个项目更加完善。 
 ## 微信赞助
-![](http://image.3001.net/images/20180721/15321448021003.gif)    
+   
 ## 支付宝赞助
-![](http://image.3001.net/images/20180721/15321446416364.gif)  
+
